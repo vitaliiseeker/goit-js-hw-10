@@ -76,7 +76,7 @@
 74D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\is-typed-array\README.md133070089442231737 0
 68D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\msgpackr\pack.d.ts133070089482562028 0
 77D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\@parcel\watcher\src\windows133070089511377507 1
-41D:\Project\Bootcamp\js\goit-js-hw-10\dist133072810726308404 1
+41D:\Project\Bootcamp\js\goit-js-hw-10\dist133073839152090825 1
 58D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\mdn-data133070089503092427 1
 70D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\is-arguments\.github133070089455082557 1
 77D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\es-abstract\helpers\sign.js133070089685886854 0
@@ -179,7 +179,7 @@
 92D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\es-abstract\2018\CreateIterResultObject.js133070089601212760 0
 96D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\readable-stream\lib\internal\streams\stream.js133070089484748073 0
 76D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\is-negative-zero\README.md133070089448073312 0
-52D:\Project\Bootcamp\js\goit-js-hw-10\src\js\index.js133072810718067875 0
+52D:\Project\Bootcamp\js\goit-js-hw-10\src\js\index.js133073836852536632 0
 93D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\fast-glob\out\providers\matchers\partial.js133070089472769548 0
 79D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\terser\lib\compress\common.js133070089491752413 0
 77D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\define-properties\README.md133070089435290699 0
@@ -3112,7 +3112,7 @@
 67D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\lmdb\util\when.js133070089591694067 0
 83D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\es-abstract\2019\thisTimeValue.js133070089697413495 0
 69D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\lmdb\src\cursor.cpp133070089573575735 0
-60D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.77a9bc14.css133072807744329041 0
+60D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.77a9bc14.css133073839151453891 0
 89D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\caniuse-lite\data\features\dom-range.js133070089617002586 0
 93D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\es-abstract\2020\BigInt\signedRightShift.js133070089685916797 0
 70D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\lmdb\src\lmdb-js.cpp133070089574751488 0
@@ -3398,7 +3398,7 @@
 80D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\is-negative-zero\.eslintignore133070089361611587 0
 85D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\es-abstract\2020\thisStringValue.js133070089695816030 0
 76D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\is-negative-zero\.eslintrc133070089378075106 0
-59D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.739bf03c.js133072810726158632 0
+59D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.739bf03c.js133073839151949092 0
 74D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\is-negative-zero\.github133070089452911486 1
 98D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133070089497724458 0
 69D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\has-bigints\.github133070089441431789 1
@@ -3593,7 +3593,7 @@
 79D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\es-abstract\2018\IsInteger.js133070089645112846 0
 84D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\es-abstract\2019\HasOwnProperty.js133070089628755569 0
 100D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.js133070089442381465 0
-63D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.739bf03c.js.map133072810726278466 0
+63D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.739bf03c.js.map133073839151983147 0
 81D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\@parcel\utils\src\objectHash.js133070089550927975 0
 77D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\flatpickr\dist\l10n\zh.d.ts133070089617082463 0
 99D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133070089473408459 0
@@ -5845,7 +5845,7 @@
 81D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\caniuse-lite\data\regions\KZ.js133070089636208631 0
 81D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\caniuse-lite\data\regions\LK.js133070089638047014 0
 81D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\caniuse-lite\data\regions\LS.js133070089638336512 0
-52D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.html133072807746725283 0
+52D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.html133073839151453891 0
 84D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\caniuse-lite\data\features\heif.js133070089626856811 0
 81D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\caniuse-lite\data\regions\LV.js133070089638526173 0
 93D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\@parcel\core\src\TargetDescriptor.schema.js133070089593904568 0
@@ -7275,4 +7275,4 @@
 63D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\.bin\svgo.cmd133070089818851386 0
 63D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\.bin\svgo.ps1133070089818821420 0
 65D:\Project\Bootcamp\js\goit-js-hw-10\node_modules\.bin\terser.cmd133070089818461986 0
-64D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.77a9bc14.css.map133072807744698447 0
+64D:\Project\Bootcamp\js\goit-js-hw-10\dist\index.77a9bc14.css.map133073839151713516 0
